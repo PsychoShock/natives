@@ -8,7 +8,7 @@ ns: SYSTEM
 void SETTIMERB(int value);
 ```
 
-
 ## Parameters
-* **value**: 
+* **Time**: In milliseconds.
 
+Sets the value for the timer B in milliseconds
